@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TobagoPartners</string>
+    <string name="title_home">Trang chủ</string>
+    <string name="title_sale">Ưu đãi</string>
+    <string name="title_account">Tài khoản</string>
+    <string name="title_trade">Giao dịch</string>
+    <string name="account_detail">Thông tin tài khoản</string>
+    <string name="contact_us">Liên hệ với chúng tôi</string>
+    <string name="help">Trợ giúp</string>
+    <string name="change_password">Đổi mật khẩu</string>
+    <string name="change_info">Sửa thông tin</string>
+    <string name="total_refund">Tổng tiền đang chờ hoàn lại</string>
+    <string name="total_fail_trading">Tổng tiền giao dịch không thành công</string>
+    <string name="total_by_marketing">Tổng tiền chờ hoàn do giới thiệu</string>
+    <string name="total_pending_bonus">Tổng tiền thưởng đang chờ</string>
+</resources>
